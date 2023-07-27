@@ -1,3 +1,5 @@
 # mtg-closet
  
-# RF-MTG-CSCT
+Currently work in progess
+
+will update with walk through once front end is complete
